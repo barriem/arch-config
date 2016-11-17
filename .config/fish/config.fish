@@ -10,3 +10,5 @@ alias gpom "git push origin master"
 fundle plugin 'tuvistavie/fish-ssh-agent'
 
 set -x PATH $PATH /usr/local/bin
+
+start_agent
