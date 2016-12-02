@@ -1,6 +1,10 @@
 xterm*renderFont: true
 xterm*faceName: VeraMono
 xterm*faceSize: 8
+xterm*selectToClipboard:true
+
+URxvt.font: xft:VeraMono:size=6
+URxvt.letterSpace: -3
 
 #define S_base03        #002b36
 #define S_base02        #073642
