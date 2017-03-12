@@ -12,3 +12,5 @@ fundle plugin 'tuvistavie/fish-ssh-agent'
 set -x PATH $PATH /usr/local/bin
 
 start_agent
+
+test -s /home/baz/.nvm-fish/nvm.fish; and source /home/baz/.nvm-fish/nvm.fish
